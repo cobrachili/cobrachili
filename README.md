@@ -3,7 +3,7 @@
 My name is Stephan, I am a Oregon State trained computer scientist interested in full stack development and all things Python!
 
 - 🔭 I’m currently working on bolstering my portfolio to break into the tech industry.
-- 👯 I’m looking to collaborate on open source projects. 
+- 🤝 I’m looking to collaborate on open source projects. 
 
 <!--
 **cobrachili/cobrachili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
