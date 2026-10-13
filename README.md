@@ -1,21 +1,10 @@
-## Hi there 👋
+# Hi, I'm Stephan 👋
 
-My name is Stephan, I am a Oregon State trained computer scientist interested in full stack development and all things Python!
+Software engineer interested in embedded systems, test automation, and C/C++.
+I have a B.S. in Computer Science from Oregon State and start an M.S. in Computer
+Science at Georgia Tech in Spring 2027. I currently build avionics hardware at
+Northrop Grumman, so I like working where code meets hardware.
 
-- 🔭 I’m currently working on bolstering my portfolio to break into the tech industry.
-- 🤝 I’m looking to collaborate on open source projects. 
-
-<!--
-**cobrachili/cobrachili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 Currently building: an STM32 sensor node with an automated Python test suite
+- 💻 Languages: C, C++, Python, Kotlin, JavaScript
+- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/YOUR-HANDLE)
